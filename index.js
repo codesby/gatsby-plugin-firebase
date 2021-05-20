@@ -1,5 +1,3 @@
-// import firebase from "./src/firebase"
-// export default firebase
 import { initializeApp, getApps } from "firebase/app";
 
 if (!getApps.length) {
